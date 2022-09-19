@@ -1,7 +1,7 @@
 {
   "name": "vue-cordova-scroller",
   "description": "Smooth scrolling for any amount of data",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "was dong",
     "email": "937489268@qq.com"
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/vue-virtual-scroller.git"
+    "url": "git+https://github.com/liudebug/vue-cordova-scroller.git"
   },
   "bugs": {
     "url": "https://github.com/Akryum/vue-virtual-scroller/issues"
   },
-  "homepage": "https://github.com/Akryum/vue-virtual-scroller#readme",
+  "homepage": "https://github.com/liudebug/vue-cordova-scroller",
   "dependencies": {
     "scrollparent": "^2.0.1",
     "vue-observe-visibility": "^0.4.4",
